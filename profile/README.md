@@ -1,7 +1,7 @@
  
 # 👋 Heya, welcome to the Terminus community!
 
-🏠 [Homepage](https://www.jointerminus.com/) | 📚 [Documentation](https://docs.jointerminus.com/overview/introduction/what-is-terminus.html) | 🙋‍ [Contribution](https://docs.jointerminus.com/developer/contribute/terminus-os.html) | 🙌 [Discord](https://discord.com/invite/ShjkCBs2)
+🏠 [Homepage](https://www.jointerminus.com/) | 📚 [Documentation](https://docs.jointerminus.com/overview/introduction/what-is-terminus.html) | 🙋‍ [Contribution](https://docs.jointerminus.com/developer/contribute/terminus-os.html) | 🙌 [Discord](](https://discord.com/invite/BzfqrgQPDK)
 
 Terminus is on a mission to let people own their data again. We believe the current state of the internet, where user data is centralized and exploited by monopolistic corporations, is deeply flawed. Our goal is to empower individuals with true data ownership and control. That's why we build Terminus. 
 
