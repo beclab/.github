@@ -13,7 +13,7 @@ Olares consists of three integral components:
 
 - [**Olares OS**](https://github.com/beclab/olares), an open-source, selfhosted operating system running on personal edge devices, allowing users to host their own data and applications.
 - [**Snowinning Protocol**](https://docs.snowinning.com/protocol/overview.html), a decentralized identity and credit system that provides a framework for secure, trustless exchanges of information and value. It integrates with other components of the ecosystem to ensure that transactions and interactions across platforms remain secure and verifiable without centralized oversight.
-- [**LarePass**](https://github.com/beclab/larepass), a comprehensive client software solution that operates across multiple platforms. It securely stores users' private keys and manages their identities and data across various devices.
+- [**LarePass**](https://www.olares.xyz/larepass), a comprehensive client software solution that operates across multiple platforms. It securely stores users' private keys and manages their identities and data across various devices.
 
 
 
